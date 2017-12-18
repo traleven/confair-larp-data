@@ -1,0 +1,1292 @@
+{
+  "threads": [
+    {
+      "title": "Музблок",
+      "place": "",
+      "color": "F5F300",
+      "speeches": [
+        {
+          "id": "A0",
+          "start": "2016-03-25 18:00",
+          "duration": 60,
+          "title": "Открытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AA0",
+          "start": "2016-03-25 19:00",
+          "duration": 30,
+          "title": "Блиц-презентации игр",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "A1",
+          "start": "2016-03-25 19:30",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AA1",
+          "start": "2016-03-25 20:30",
+          "duration": 90,
+          "title": "Сборный концерт",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AA2",
+          "start": "2016-03-25 22:00",
+          "duration": 90,
+          "title": "Вечер ролевых баек",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "A2",
+          "start": "2016-03-26 09:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "A3",
+          "start": "2016-03-26 13:00",
+          "duration": 60,
+          "title": "Обед",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AB0",
+          "start": "2016-03-26 14:00",
+          "duration": 60,
+          "title": "Vera's Band",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AB1",
+          "start": "2016-03-26 15:00",
+          "duration": 60,
+          "title": "Звездная радуга",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AB2",
+          "start": "2016-03-26 16:00",
+          "duration": 120,
+          "title": "ТарКос",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AB3",
+          "start": "2016-03-26 18:00",
+          "duration": 60,
+          "title": "MadGod",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "A4",
+          "start": "2016-03-26 19:00",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AB4",
+          "start": "2016-03-26 20:00",
+          "duration": 60,
+          "title": "Сказки вдогонку",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "AB5",
+          "start": "2016-03-26 21:00",
+          "duration": 120,
+          "title": "Тим Яровиков",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "A5",
+          "start": "2016-03-27 11:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "A6",
+          "start": "2016-03-27 12:00",
+          "duration": 60,
+          "title": "Закрытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Семинарский блок",
+      "place": "",
+      "color": "0000FF",
+      "speeches": [
+        {
+          "id": "BA0",
+          "start": "2016-03-25 16:00",
+          "duration": 90,
+          "title": "КС Магия на страндартной ПРИ в стиле фентези",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B0",
+          "start": "2016-03-25 18:00",
+          "duration": 60,
+          "title": "Открытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B1",
+          "start": "2016-03-25 19:30",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BA1",
+          "start": "2016-03-25 20:30",
+          "duration": 60,
+          "title": "Семинар \"Как создать атмосферу в своей локации\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Немирова А.В.",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BA2",
+          "start": "2016-03-25 21:30",
+          "duration": 90,
+          "title": "МК по созданию костюма персонажа",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Вольда Дивная",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BA3",
+          "start": "2016-03-25 23:00",
+          "duration": 90,
+          "title": "МК по созданию коктейлей в полевых условиях. Конкурс коктейлей",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Хвост",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B2",
+          "start": "2016-03-26 09:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB0",
+          "start": "2016-03-26 10:00",
+          "duration": 90,
+          "title": "Игропрактикум \"Пять самых важных минут из жизни Главного героя\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB1",
+          "start": "2016-03-26 11:30",
+          "duration": 90,
+          "title": "Игропрактикум \"Драматизируем со знанием дела\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B3",
+          "start": "2016-03-26 13:00",
+          "duration": 60,
+          "title": "Обед",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB2",
+          "start": "2016-03-26 14:00",
+          "duration": 60,
+          "title": "КС \"Бал-игра - миф или удачный формат?\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Кошка и Белка",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB3",
+          "start": "2016-03-26 15:00",
+          "duration": 90,
+          "title": "Презентация системы Чар по ХС. Демонстрация и практика",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Баюн",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB4",
+          "start": "2016-03-26 16:30",
+          "duration": 60,
+          "title": "МК по дероливанию",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Лео Плохиш",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB5",
+          "start": "2016-03-26 17:30",
+          "duration": 90,
+          "title": "Воркшоп про умолчания, или что делать, если не во что играть?",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Кошка",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B4",
+          "start": "2016-03-26 19:00",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "BB6",
+          "start": "2016-03-26 20:00",
+          "duration": 60,
+          "title": "КС \"Во что на большой игре поиграть девочкам?\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Кошка",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B5",
+          "start": "2016-03-27 11:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "B6",
+          "start": "2016-03-27 12:00",
+          "duration": 60,
+          "title": "Закрытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Презентационный блок",
+      "place": "",
+      "color": "008000",
+      "speeches": [
+        {
+          "id": "C0",
+          "start": "2016-03-25 18:00",
+          "duration": 60,
+          "title": "Открытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "C1",
+          "start": "2016-03-25 19:30",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "C2",
+          "start": "2016-03-26 09:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB0",
+          "start": "2016-03-26 10:00",
+          "duration": 60,
+          "title": "ПРИ \"Герои Меча и Магии\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB1",
+          "start": "2016-03-26 11:00",
+          "duration": 60,
+          "title": "ПРИ \"Айзен. Сердце героя\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB2",
+          "start": "2016-03-26 12:00",
+          "duration": 60,
+          "title": "ПРИ \"Zombie Quest\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "C3",
+          "start": "2016-03-26 13:00",
+          "duration": 60,
+          "title": "Обед",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB3",
+          "start": "2016-03-26 14:00",
+          "duration": 60,
+          "title": "ПРИ \"Белория 2016. Шаккара\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB4",
+          "start": "2016-03-26 15:00",
+          "duration": 60,
+          "title": "КРИ \"Cotton Club\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB5",
+          "start": "2016-03-26 16:00",
+          "duration": 60,
+          "title": "Презентация-сыгровка ПРИ \"Dragon Age 2016\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB6",
+          "start": "2016-03-26 17:00",
+          "duration": 60,
+          "title": "ПРИ \"Невервинтер. Перед рассветом\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB7",
+          "start": "2016-03-26 18:00",
+          "duration": 60,
+          "title": "ПРИ \"Белерианд-1500\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "C4",
+          "start": "2016-03-26 19:00",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "СB8",
+          "start": "2016-03-26 20:00",
+          "duration": 60,
+          "title": "ПРИ \"Fallout extreme 2160\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "C5",
+          "start": "2016-03-27 11:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "C6",
+          "start": "2016-03-27 12:00",
+          "duration": 60,
+          "title": "Закрытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Танцевальный блок",
+      "place": "",
+      "color": "9400D3",
+      "speeches": [
+        {
+          "id": "DA0",
+          "start": "2016-03-25 17:00",
+          "duration": 60,
+          "title": "МК по фигурным танцам",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Тари и Фьялар",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D0",
+          "start": "2016-03-25 18:00",
+          "duration": 60,
+          "title": "Открытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D1",
+          "start": "2016-03-25 19:30",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DA1",
+          "start": "2016-03-25 20:30",
+          "duration": 60,
+          "title": "МК по фигурным танцам",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Тари и Фьялар",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DA2",
+          "start": "2016-03-25 22:00",
+          "duration": 150,
+          "title": "Свободный танцпол",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Рэй",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D2",
+          "start": "2016-03-26 09:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DB0",
+          "start": "2016-03-26 10:00",
+          "duration": 90,
+          "title": "МК по кросс-степ вальсу",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Тари и Фьялар",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DB1",
+          "start": "2016-03-26 11:30",
+          "duration": 90,
+          "title": "МК \"Танго-салон - с чего начинается ритм...\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Тари и Фьялар",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D3",
+          "start": "2016-03-26 13:00",
+          "duration": 60,
+          "title": "Обед",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DB2",
+          "start": "2016-03-26 15:00",
+          "duration": 180,
+          "title": "МК \"Танго - как ходить, дышать, жить - особенности ведения в танго\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Шурик и Белка",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DB3",
+          "start": "2016-03-26 18:00",
+          "duration": 60,
+          "title": "МК по вальсовым импровизациям",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Тари и Фьялар",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D4",
+          "start": "2016-03-26 19:00",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DB4",
+          "start": "2016-03-26 20:00",
+          "duration": 60,
+          "title": "МК по импровизациям",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Тари и Фьялар",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "DB5",
+          "start": "2016-03-26 21:30",
+          "duration": 180,
+          "title": "Бал-игра \"Лабиринт\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D5",
+          "start": "2016-03-27 11:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "D6",
+          "start": "2016-03-27 12:00",
+          "duration": 60,
+          "title": "Закрытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Турнирный блок",
+      "place": "",
+      "color": "FF0000",
+      "speeches": [
+        {
+          "id": "E0",
+          "start": "2016-03-25 18:00",
+          "duration": 60,
+          "title": "Открытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "E1",
+          "start": "2016-03-25 19:30",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "E2",
+          "start": "2016-03-26 09:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "EB0",
+          "start": "2016-03-26 10:00",
+          "duration": 60,
+          "title": "Регистрация на шпажный турнир",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "EB1",
+          "start": "2016-03-26 11:00",
+          "duration": 120,
+          "title": "Шпажный турнир",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "E3",
+          "start": "2016-03-26 13:00",
+          "duration": 60,
+          "title": "Обед",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "EB2",
+          "start": "2016-03-26 14:00",
+          "duration": 60,
+          "title": "Регистрация на ножевой турнир",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "EB3",
+          "start": "2016-03-26 15:00",
+          "duration": 150,
+          "title": "Ножевой турнир",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "E4",
+          "start": "2016-03-26 19:00",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "E5",
+          "start": "2016-03-27 11:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "E6",
+          "start": "2016-03-27 12:00",
+          "duration": 60,
+          "title": "Закрытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "МК на ярмарке",
+      "place": "",
+      "color": "FFA500",
+      "speeches": [
+        {
+          "id": "F0",
+          "start": "2016-03-25 18:00",
+          "duration": 60,
+          "title": "Открытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "F1",
+          "start": "2016-03-25 19:30",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "F2",
+          "start": "2016-03-26 09:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "FB0",
+          "start": "2016-03-26 12:00",
+          "duration": 60,
+          "title": "МК \"LARP-оружие из детской игрушки\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Арк",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "F3",
+          "start": "2016-03-26 13:00",
+          "duration": 60,
+          "title": "Обед",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "FB1",
+          "start": "2016-03-26 14:00",
+          "duration": 90,
+          "title": "МК \"Амулет для зачаровки на коленке\"",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "Настя Лыкарь",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "F4",
+          "start": "2016-03-26 19:00",
+          "duration": 60,
+          "title": "Ужин",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "F5",
+          "start": "2016-03-27 11:00",
+          "duration": 60,
+          "title": "Завтрак",
+          "color": "101010",
+          "description": "",
+          "place": "Столовая",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        },
+        {
+          "id": "F6",
+          "start": "2016-03-27 12:00",
+          "duration": 60,
+          "title": "Закрытие",
+          "color": "101010",
+          "description": "",
+          "place": "",
+          "author": {
+            "name": "",
+            "avatar": "",
+            "position": "",
+            "company": ""
+          }
+        }
+      ]
+    }
+  ]
+}

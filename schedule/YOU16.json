@@ -1,0 +1,1045 @@
+{
+    "threads": [
+        {
+            "title": "Guitar Hero",
+            "place": "Guitar Hero",
+            "color": "ff00ff",
+            "speeches": [
+                {
+                    "id": "A8",
+                    "start": "2016-12-02 20:00",
+                    "duration": 30,
+                    "title": "Открытие",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A1",
+                    "start": "2016-12-02 21:00",
+                    "duration": 60,
+                    "title": "Концерт Зеленого",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A7",
+                    "start": "2016-12-02 22:00",
+                    "duration": 120,
+                    "title": "Свободный микрофон",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A2",
+                    "start": "2016-12-03 14:30",
+                    "duration": 60,
+                    "title": "Концерт Халдейки",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A3",
+                    "start": "2016-12-03 16:00",
+                    "duration": 60,
+                    "title": "Концерт Мэдгода",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A4",
+                    "start": "2016-12-03 17:30",
+                    "duration": 60,
+                    "title": "Концерт Немного Нервно (Екатерина Гопенко и Роман Резник)",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A5",
+                    "start": "2016-12-03 19:00",
+                    "duration": 90,
+                    "title": "Концерт Тикки Шельен",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A6",
+                    "start": "2016-12-03 20:30",
+                    "duration": 60,
+                    "title": "Концерт группы Телери",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A9",
+                    "start": "2016-12-04 14:00",
+                    "duration": 60,
+                    "title": "Закрытие",
+                    "color": "FF00FF",
+                    "description": "",
+                    "place": "Площадка: Guitar Hero",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Tetris",
+            "place": "Tetris",
+            "color": "ffbf00",
+            "speeches": [
+                {
+                    "id": "B2",
+                    "start": "2016-12-02 17:45",
+                    "duration": 60,
+                    "title": "«Костюмчик» мастер-клас по созданию костюма для вашего персонажа",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Вольда",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B15",
+                    "start": "2016-12-02 19:00",
+                    "duration": 60,
+                    "title": "Круглый стол «Хороший. Плохой. Злой: Как получить фан, играя в „черно-белый“ мир»",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Юлия Соколова",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B16",
+                    "start": "2016-12-02 21:00",
+                    "duration": 60,
+                    "title": "Условно-интеллектуальная игра «Этапы работы над РИ или как съесть медведя?»",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Кошка София",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B3",
+                    "start": "2016-12-03 11:00",
+                    "duration": 60,
+                    "title": "Игра как система",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Руско ака Тигра",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B5",
+                    "start": "2016-12-03 12:00",
+                    "duration": 90,
+                    "title": "Конфликты в команде или как разругаться со своей МГ  не на всю жизнь",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Дарья Крошка",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B6",
+                    "start": "2016-12-03 13:45",
+                    "duration": 60,
+                    "title": "Мастер-класс \"Главное, чтобы костюмчик сидел!\" ",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Дэн МакГрегор",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B7",
+                    "start": "2016-12-03 14:45",
+                    "duration": 60,
+                    "title": "Семинар \"Игры, которые играют людьми\"",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Энгри",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B8",
+                    "start": "2016-12-03 16:00",
+                    "duration": 45,
+                    "title": "Презентация ПРИ \"Последний союз\"",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Мася",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B9",
+                    "start": "2016-12-03 17:00",
+                    "duration": 45,
+                    "title": "Презентация полигонной игры \"All Tales: Узники Клятвы\"",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Mysterious",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B10",
+                    "start": "2016-12-03 18:00",
+                    "duration": 60,
+                    "title": "Мастер класс: Как изготовить квестбуки для игроков",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Лонгот",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B11",
+                    "start": "2016-12-03 20:15",
+                    "duration": 45,
+                    "title": "Презентация игры \"Невервинтер: Полдень проклятых\"",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Лайн",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B14",
+                    "start": "2016-12-03 21:00",
+                    "duration": 45,
+                    "title": "Презентация ПРИ \"Нарния: После королей\"",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Тим Спирит, Совка",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B12",
+                    "start": "2016-12-04 10:45",
+                    "duration": 90,
+                    "title": "Психологические аспекты отыгрыша злодеев на РИ",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Тайрэн",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "B13",
+                    "start": "2016-12-04 12:45",
+                    "duration": 60,
+                    "title": "Полигонное костюмирование на ВКЛ/Польшу/Украину (историческое и фентези)",
+                    "color": "FFBF00",
+                    "description": "",
+                    "place": "Площадка: Tetris",
+                    "author": {
+                        "name": "Сильман Ирина",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Doom",
+            "place": "Doom",
+            "color": "ff033e",
+            "speeches": [
+                {
+                    "id": "C2",
+                    "start": "2016-12-03 10:00",
+                    "duration": 60,
+                    "title": "Семинар \"Ролевые игры как инструмент самопознания\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Миланский Роман",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "C4",
+                    "start": "2016-12-03 12:15",
+                    "duration": 60,
+                    "title": "Нордические РИ и другие недоразумения РД    ",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Кот Ярослав",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "С5",
+                    "start": "2016-12-03 13:30",
+                    "duration": 45,
+                    "title": "Презентация ПРИ \"Dragon Age\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Руслан Минин",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "C6",
+                    "start": "2016-12-03 14:30",
+                    "duration": 60,
+                    "title": "Мастеркласс \"Как не разориться, делая ролевую игру\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Лютик",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "С7",
+                    "start": "2016-12-03 15:45",
+                    "duration": 75,
+                    "title": "Тренинг \"Сложные игры\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Энгри",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "C8",
+                    "start": "2016-12-03 17:00",
+                    "duration": 60,
+                    "title": "Семинар \"Моделируя реальность: особенности полигонного геймдева\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Лютик",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "С9",
+                    "start": "2016-12-03 18:15",
+                    "duration": 45,
+                    "title": "\"Мозаика. Три города\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Бес",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "C10",
+                    "start": "2016-12-04 11:30",
+                    "duration": 45,
+                    "title": "Презентация ПРИ \"В горах мое сердце...\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Дэн МакГрегор",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "С1",
+                    "start": "2016-12-04 12:15",
+                    "duration": 45,
+                    "title": "Семинар \"Медик\\санитар на полигоне - Семь граблей за 45 минут\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Драго",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "C11",
+                    "start": "2016-12-04 13:00",
+                    "duration": 60,
+                    "title": "Круглый стол \"Quo vadis\"",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: Doom",
+                    "author": {
+                        "name": "Лайн",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "XCOM",
+            "place": "XCOM",
+            "color": "0000ff",
+            "speeches": [
+                {
+                    "id": "D12",
+                    "start": "2016-12-02 19:30",
+                    "duration": 15,
+                    "title": "Презентация мероприятий потока Nordic LARP",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D13",
+                    "start": "2016-12-02 19:45",
+                    "duration": 15,
+                    "title": "Презентация игры \"Ремиссия\"",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D1",
+                    "start": "2016-12-02 20:30",
+                    "duration": 210,
+                    "title": "Игра «Точка отсчета»  ",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Хаген",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D3",
+                    "start": "2016-12-03 11:30",
+                    "duration": 60,
+                    "title": "Практический семинар «Организация пространства на ролевой игре»",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Тика",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D5",
+                    "start": "2016-12-03 12:30",
+                    "duration": 30,
+                    "title": "Danceoke",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Тика",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D6",
+                    "start": "2016-12-03 13:30",
+                    "duration": 60,
+                    "title": "Практический семинар \"Игра на проигрыш. Как обеспечить себе и всем вокруг незабываемую историю\"",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Мэллос",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D7",
+                    "start": "2016-12-03 14:30",
+                    "duration": 30,
+                    "title": "Danceoke",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Тика",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D8",
+                    "start": "2016-12-03 15:30",
+                    "duration": 240,
+                    "title": "Камерная игра «Лимб»",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Тэль",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D9",
+                    "start": "2016-12-03 20:00",
+                    "duration": 240,
+                    "title": "Игра «Dragon’s Game»",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Хаген",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D14",
+                    "start": "2016-12-04 11:00",
+                    "duration": 60,
+                    "title": "Фантастические звери Bleed in u Bleed out и как их приручить",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Тика",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D10",
+                    "start": "2016-12-04 12:00",
+                    "duration": 30,
+                    "title": "Danceoke ",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Тика",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "D11",
+                    "start": "2016-12-04 12:30",
+                    "duration": 60,
+                    "title": "Мастер-класс по предыгровым воркшопам: 2nd level",
+                    "color": "0000FF",
+                    "description": "",
+                    "place": "Площадка: XCOM",
+                    "author": {
+                        "name": "Мэллос",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Just dance!",
+            "place": "Just dance!",
+            "color": "ff1493",
+            "speeches": [
+                {
+                    "id": "E1",
+                    "start": "2016-12-03 11:30",
+                    "duration": 90,
+                    "title": "Танцевальный мастер-класс по tribal",
+                    "color": "FF1493",
+                    "description": "",
+                    "place": "Площадка: Just dance!",
+                    "author": {
+                        "name": "Юлианна Хоменко",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "E2",
+                    "start": "2016-12-03 13:30",
+                    "duration": 90,
+                    "title": "Танцевальный мастер-класс по стилю Jazz-funk",
+                    "color": "FF1493",
+                    "description": "",
+                    "place": "Площадка: Just dance!",
+                    "author": {
+                        "name": "Лена Конюшок",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "E3",
+                    "start": "2016-12-03 15:45",
+                    "duration": 90,
+                    "title": "Танцевальный мастер-класс по стилю Contemporary",
+                    "color": "FF1493",
+                    "description": "",
+                    "place": "Площадка: Just dance!",
+                    "author": {
+                        "name": "Лена Конюшок",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Quake Arena",
+            "place": "Quake Arena",
+            "color": "66ff00",
+            "speeches": [
+                {
+                    "id": "F6",
+                    "start": "2016-12-02 18:00",
+                    "duration": 120,
+                    "title": "Ужин",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F1",
+                    "start": "2016-12-02 21:00",
+                    "duration": 180,
+                    "title": "Вечеринка",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": " Ивент-агенство NeverLand и трайбл-коллектив Twisted Tribe",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F7",
+                    "start": "2016-12-03 10:00",
+                    "duration": 120,
+                    "title": "Завтрак",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F3",
+                    "start": "2016-12-03 12:00",
+                    "duration": 120,
+                    "title": "LARP-турнир",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "Макс Феанор, Юрий Зипов",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F8",
+                    "start": "2016-12-03 14:00",
+                    "duration": 120,
+                    "title": "Обед",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F4",
+                    "start": "2016-12-03 16:00",
+                    "duration": 120,
+                    "title": "Worms",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "Макс Феанор, Юрий Зипов",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F9",
+                    "start": "2016-12-03 18:00",
+                    "duration": 120,
+                    "title": "Ужин",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F5",
+                    "start": "2016-12-03 22:00",
+                    "duration": 120,
+                    "title": "Просто Юкон-дискотека",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "Творческое объединение \"Юкон\"",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F10",
+                    "start": "2016-12-04 10:00",
+                    "duration": 120,
+                    "title": "Завтрак",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "F2",
+                    "start": "2016-12-04 12:00",
+                    "duration": 60,
+                    "title": "Jugger",
+                    "color": "66FF00",
+                    "description": "",
+                    "place": "Площадка: Quake Arena",
+                    "author": {
+                        "name": "Макс Феанор, Юрий Зипов",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "9999",
+            "place": "9999",
+            "color": "ff033e",
+            "speeches": [
+                {
+                    "id": "G1",
+                    "start": "2016-12-02 16:00",
+                    "duration": 240,
+                    "title": "Настольные игры",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: 9999",
+                    "author": {
+                        "name": "Клуб \"В это вы еще не играли!\"\nОльга Вакуленко\n\nКлуб \"Мистер Шпиллер\"\nАнна-Мария Шелест\n\nИздательство \"Kilogames\"\nАлександр Поликарпов, \nВячеслав Сотник\n",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "G2",
+                    "start": "2016-12-02 20:30",
+                    "duration": 150,
+                    "title": "Настольные игры",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: 9999",
+                    "author": {
+                        "name": "Клуб \"В это вы еще не играли!\"\nОльга Вакуленко\n\nКлуб \"Мистер Шпиллер\"\nАнна-Мария Шелест\n\nИздательство \"Kilogames\"\nАлександр Поликарпов, \nВячеслав Сотник\n",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "G3",
+                    "start": "2016-12-03 10:00",
+                    "duration": 720,
+                    "title": "Настольные игры",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: 9999",
+                    "author": {
+                        "name": "Клуб \"В это вы еще не играли!\"\nОльга Вакуленко\n\nКлуб \"Мистер Шпиллер\"\nАнна-Мария Шелест\n\nИздательство \"Kilogames\"\nАлександр Поликарпов, \nВячеслав Сотник\n",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "G4",
+                    "start": "2016-12-04 10:00",
+                    "duration": 240,
+                    "title": "Настольные игры",
+                    "color": "FF033E",
+                    "description": "",
+                    "place": "Площадка: 9999",
+                    "author": {
+                        "name": "Клуб \"В это вы еще не играли!\"\nОльга Вакуленко\n\nКлуб \"Мистер Шпиллер\"\nАнна-Мария Шелест\n\nИздательство \"Kilogames\"\nАлександр Поликарпов, \nВячеслав Сотник\n",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

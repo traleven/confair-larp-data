@@ -1,0 +1,267 @@
+{
+    "threads": [
+        {
+            "title": "ХСМ",
+            "place": "The Cat in the High Castle",
+            "color": "0000AA",
+            "speeches": [
+                {
+                    "id": "A1",
+                    "start": "2016-04-23 10:00",
+                    "duration": 60,
+                    "title": "Организационные вопросы",
+                    "color": "FF0000",
+                    "description": "Заезд, раздача бейджей и прочие полезные штуки",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A2",
+                    "start": "2016-04-23 11:00",
+                    "duration": 30,
+                    "title": "\"Разминка для хвоста\"",
+                    "color": "0000FF",
+                    "description": "Приведение участников и ведущих в рабочее состояние",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "Дипломат",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A3",
+                    "start": "2016-04-23 11:30",
+                    "duration": 90,
+                    "title": "Структура МГ",
+                    "color": "008000",
+                    "description": "\"Пастух котов: как собрать команду личностей, убедить их делать игру и остаться в здравом уме\"",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A4",
+                    "start": "2016-04-23 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FF0000",
+                    "description": "Отдых и обсуждение",
+                    "place": "Любая близлежащая кафешка",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A5",
+                    "start": "2016-04-23 14:00",
+                    "duration": 240,
+                    "title": "Инструменты работы с сюжетом",
+                    "color": "0000FF",
+                    "description": "КамаСутра по-мастерски",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A6",
+                    "start": "2016-04-23 18:00",
+                    "duration": 60,
+                    "title": "Перерыв",
+                    "color": "FF0000",
+                    "description": "переезд на место ночного ХСМ",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A7",
+                    "start": "2016-04-23 19:00",
+                    "duration": 120,
+                    "title": "[Отменено] Жить недолго и не счастливо",
+                    "color": "0000FF",
+                    "description": "О том, как можно усложнитьсвоему и чужим персонажам жизнь на игре, чтобы было о чем вспомнить ",
+                    "place": "Ночной ХСМ",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A8",
+                    "start": "2016-04-23 21:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FF0000",
+                    "description": "Отдых и обсуждение",
+                    "place": "Ночной ХСМ",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A9",
+                    "start": "2016-04-23 22:00",
+                    "duration": 90,
+                    "title": "Немного про управление сюжетом мастерами и игроками",
+                    "color": "008000",
+                    "description": "Метатехники, приемы и фишки",
+                    "place": "Ночной ХСМ",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A10",
+                    "start": "2016-04-23 23:30",
+                    "duration": 90,
+                    "title": "[Отменено] Для самых упоротых",
+                    "color": "008000",
+                    "description": "Про работу в форсмажоре - как не убиться нафиг. Принципы и подходы",
+                    "place": "Ночной ХСМ",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A11",
+                    "start": "2016-04-24 09:30",
+                    "duration": 30,
+                    "title": "Организационные вопросы",
+                    "color": "FF0000",
+                    "description": "чай, обмен впечатлениями и попытки проснуться",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A12",
+                    "start": "2016-04-24 10:00",
+                    "duration": 180,
+                    "title": "\"Игра как проект\"",
+                    "color": "0000FF",
+                    "description": "Про организацию работы над игрой ",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "Дипломат",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A13",
+                    "start": "2016-04-24 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FF0000",
+                    "description": "Отдых и обсуждение",
+                    "place": "Любая близлежащая кафешка",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A14",
+                    "start": "2016-04-24 14:00",
+                    "duration": 60,
+                    "title": "\"Рецепты\" - останься живым на полигоне",
+                    "color": "008000",
+                    "description": "Про организацию работы МГ на полигоне",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "sofia.jpg",
+                        "position": "",
+                        "company": "",
+                        "url": "https://vk.com/koshkasofia"
+                    }
+                },
+                {
+                    "id": "A15",
+                    "start": "2016-04-24 15:00",
+                    "duration": 150,
+                    "title": "Воркшоп \"Загляни в голову оппоненту\"",
+                    "color": "0000FF",
+                    "description": "Как работать со сложными игроками, про которых не понятно, что они хотят",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "Дипломат",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "A16",
+                    "start": "2016-04-24 17:30",
+                    "duration": 30,
+                    "title": "Рефлексия",
+                    "color": "0000FF",
+                    "description": "Подведение итогов",
+                    "place": "The Cat in the High Castle",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
