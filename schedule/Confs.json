@@ -2896,6 +2896,30 @@
             }
         },
         {
+            "id": "BL1018",
+            "url": "",
+            "status": "Анонс",
+            "category": "Бал",
+            "title": "Бал в стилистике 1910х годов",
+            "organizer": {
+                "name": "Организаторы: Фьялар, Тари, Кьяра"
+            },
+            "date": "2018-03-31",
+            "duration": 1,
+            "date_string": "март 2018",
+            "place": "Киев",
+            "place_short": "Киев",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "",
+            "description": "",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": ""
+            }
+        },
+        {
             "id": "EPA18",
             "url": "",
             "status": "Анонс",
@@ -2916,6 +2940,29 @@
                 "text": "",
                 "tags": "",
                 "url": "https://www.facebook.com/groups/1472783489435727/"
+            }
+        },
+        {
+            "id": "VDE18",
+            "url": "",
+            "status": "Анонс",
+            "category": "Бал",
+            "title": "Vintage Dance Exchange-2018",
+            "organizer": {
+                "name": "Организаторы: Vintage Dance Community"
+            },
+            "date": "2018-04-19",
+            "duration": 4,
+            "place": "Киев",
+            "place_short": "Киев",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "https://www.facebook.com/events/459767227742836/",
+            "description": "Третій Всеукраїнський фестиваль історичного танцю, де ви зможете навчитися танців минулих епох, познайомитися з однодумцями з інших міст, чудово провести час на балах та вечірках та поринути у атмосферу романтичного минулого — від Середніх Віків та Відродження до вікторіанської доби та епохи регтайму і джазу.",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": "https://www.facebook.com/events/459767227742836/"
             }
         },
         {
@@ -3463,7 +3510,7 @@
             },
             "date": "2019-06-28",
             "duration": 4,
-            "date_string": 2019,
+            "date_string": "лето 2019",
             "place": "База под Киевом",
             "place_short": "Киев",
             "logo": "",
