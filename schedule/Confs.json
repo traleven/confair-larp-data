@@ -2827,6 +2827,30 @@
             }
         },
         {
+            "id": "LKLR18",
+            "url": "",
+            "status": "Анонс",
+            "category": "КРИ",
+            "title": "Lakelure ",
+            "organizer": {
+                "name": "МГ: Цири, Эльф"
+            },
+            "date": "2018-03-03",
+            "duration": 1,
+            "date_string": "март-апрель",
+            "place": "Киев",
+            "place_short": "Киев",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "https://t.me/lakelure",
+            "description": "Что это: кабинетка\nКоличество игроков: 20-30\nМесто проведения: уточняется, Киев\nЖанр: мистика, детектив с элементами драмы и хоррора\nДаты (ориентировочно): март-апрель, уточняется, по набору игроков\nДлительность (ориентировочно): 7-10 часов\nАнонс и сетка ролей: https://docs.google.com/document/d/1tzrgFe3BfU0nhzeoW-TPEDVh0Zi-1nk7dDqJXAjBLRo/edit?usp=sharing",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": "https://t.me/lakelure"
+            }
+        },
+        {
             "id": "MF18",
             "url": "",
             "status": "Анонс",
