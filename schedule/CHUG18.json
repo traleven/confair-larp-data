@@ -1,0 +1,1189 @@
+{
+    "threads": [
+        {
+            "title": "Тардис",
+            "place": "Тардис",
+            "color": "cc0000",
+            "speeches": [
+                {
+                    "id": "OTK",
+                    "start": "2017-03-24 19:00",
+                    "duration": 60,
+                    "title": "Открытие",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "BLP",
+                    "start": "2017-03-24 20:00",
+                    "duration": 30,
+                    "title": "Блиц-презентации",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SKSM",
+                    "start": "2017-03-24 20:30",
+                    "duration": 180,
+                    "title": "Сборный концерт Свободный микрофон",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "DISK",
+                    "start": "2017-03-24 23:59",
+                    "duration": 91,
+                    "title": "Дискотека \"Тоннель в конце света. Недалёкие мы в далёком прошлом\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SKVD",
+                    "start": "2017-03-25 11:30",
+                    "duration": 90,
+                    "title": "Сказки вдогонку",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VER",
+                    "start": "2017-03-25 14:00",
+                    "duration": 90,
+                    "title": "“Vera’s Band”",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "NIKA",
+                    "start": "2017-03-25 15:30",
+                    "duration": 30,
+                    "title": "Ника",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "MDGD",
+                    "start": "2017-03-25 16:00",
+                    "duration": 30,
+                    "title": "MadGod",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TRKS",
+                    "start": "2017-03-25 16:30",
+                    "duration": 60,
+                    "title": "ТарКос",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SAUR",
+                    "start": "2017-03-25 17:30",
+                    "duration": 90,
+                    "title": "Сауроныч",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TIM",
+                    "start": "2017-03-25 20:00",
+                    "duration": 150,
+                    "title": "Тим Яровиков",
+                    "color": "",
+                    "description": "",
+                    "place": "Музблок Тардис",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KPVKU",
+                    "start": "2017-03-25 22:30",
+                    "duration": 60,
+                    "title": "Коктейль-пати \"Выживаем (выпиваем) как умеем\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Хвост",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Офис Скайнет",
+            "place": "Офис Скайнет",
+            "color": "e69138",
+            "speeches": [
+                {
+                    "id": "MED",
+                    "start": "2017-03-24 15:00",
+                    "duration": 60,
+                    "title": "Семинар-практикум \"Игровой мед-блок для чайников\"",
+                    "color": "",
+                    "description": " ",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Май",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "MKOSB",
+                    "start": "2017-03-24 16:00",
+                    "duration": 60,
+                    "title": "МК Основы сабельного боя",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Корум",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KSKNP",
+                    "start": "2017-03-24 17:00",
+                    "duration": 60,
+                    "title": "КС Кабак на полигонке",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Кекс и Кетрин",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KSGP",
+                    "start": "2017-03-24 20:30",
+                    "duration": 60,
+                    "title": "КС Генерация персонажей непосредственно на игре",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Соколова Юлия, Балдер",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KISS",
+                    "start": "2017-03-24 21:30",
+                    "duration": 120,
+                    "title": "Камерная игра «Старые сказки - trial»",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Соколова Юлия, Балдер",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KPMKI",
+                    "start": "2017-03-25 11:00",
+                    "duration": 60,
+                    "title": "Как подобрать музыку на камерную игру.",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Влад Голдаковский",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TNI",
+                    "start": "2017-03-25 12:00",
+                    "duration": 60,
+                    "title": "Теория нарративных игр: Как их делать и как в них играть.",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Влад Голдаковский",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "IPPHI",
+                    "start": "2017-03-25 14:00",
+                    "duration": 90,
+                    "title": "Играбельный персонаж: почему я хотел играть в захват мира, но смог только в ОБВМ?",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Тика",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SLRI",
+                    "start": "2017-03-25 15:30",
+                    "duration": 60,
+                    "title": "Скрытая, не линейная режиссура камерной игры.",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Ата",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "WPPCP",
+                    "start": "2017-03-25 16:30",
+                    "duration": 60,
+                    "title": "Воркшоп «Проблемы принцессы в средней полосе»",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "КошкаСофия",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SAK",
+                    "start": "2017-03-25 17:30",
+                    "duration": 60,
+                    "title": "Семинар “Арда, которая…”",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 1 Офис Скайнет",
+                    "author": {
+                        "name": "Рут",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Энтерпрайз",
+            "place": "Энтерпрайз",
+            "color": "f1c232",
+            "speeches": [
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SSR",
+                    "start": "2017-03-25 11:00",
+                    "duration": 60,
+                    "title": "Секреты славянской рубахи",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "ZENP",
+                    "start": "2017-03-25 12:00",
+                    "duration": 60,
+                    "title": "\"Золушка: Если у тебя нет платья…\" - первая часть (15-19 века).",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "Терн",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KNI",
+                    "start": "2017-03-25 14:00",
+                    "duration": 60,
+                    "title": "Криптография на играх.",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "Вера Седунова",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KSDNI",
+                    "start": "2017-03-25 15:00",
+                    "duration": 60,
+                    "title": "КС \"Дети на игре\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "Ведьма",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KSTBB",
+                    "start": "2017-03-25 16:00",
+                    "duration": 60,
+                    "title": "КС \"Техника безопасности для боевки на ПО (мягком, протектированном оружии, LARPweapon)\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LPKP",
+                    "start": "2017-03-25 17:00",
+                    "duration": 60,
+                    "title": "Лекция по прикладной капустологии в полигонном козловедении.",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "Арк",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KZIKS",
+                    "start": "2017-03-25 18:00",
+                    "duration": 60,
+                    "title": "\"Когда бы знали, из какого сора...\" (костюм XX века)",
+                    "color": "",
+                    "description": "",
+                    "place": "Семинарский блок 2 Энтерпрайз",
+                    "author": {
+                        "name": "Терн",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Офис Интерстеллар",
+            "place": "Офис Интерстеллар",
+            "color": "38761d",
+            "speeches": [
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "RS",
+                    "start": "2017-03-25 11:00",
+                    "duration": 120,
+                    "title": "Ролевой суд",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "KRIABS",
+                    "start": "2017-03-25 14:00",
+                    "duration": 30,
+                    "title": "КРИ \"Апокалипсис Безусловной Судьбы\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "Влад Голдаковский",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "GM",
+                    "start": "2017-03-25 14:30",
+                    "duration": 30,
+                    "title": "«Грань Миров»",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "Мэб Адухен",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PRIVPO",
+                    "start": "2017-03-25 15:00",
+                    "duration": 60,
+                    "title": "ПРИ «Винесса 2017: Последний оплот»",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FFM",
+                    "start": "2017-03-25 16:00",
+                    "duration": 60,
+                    "title": "Фестиваль фолк-музыки и исторического моделирования \"ВЕРЕСК\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PRIOS",
+                    "start": "2017-03-25 18:00",
+                    "duration": 60,
+                    "title": "ПРИ \"Однажды в сказке\"",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PRITCAV",
+                    "start": "2017-03-25 20:00",
+                    "duration": 60,
+                    "title": "ПРИ \"Тулуза и честь\". Альбигойские войны-2017",
+                    "color": "",
+                    "description": "",
+                    "place": "Презентационный блок Офис Интерстеллар",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Звездные врата",
+            "place": "Звездные врата",
+            "color": "6d9eeb",
+            "speeches": [
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PNTEV",
+                    "start": "2017-03-25 10:30",
+                    "duration": 90,
+                    "title": "Придворные и народные танцы эпохи Возрождения (15 в)",
+                    "color": "",
+                    "description": "",
+                    "place": "Расширитель второго этажа Звездные врата",
+                    "author": {
+                        "name": "Дарья Бобрицкая",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VSGT",
+                    "start": "2017-03-25 12:00",
+                    "duration": 60,
+                    "title": "Ведение-следование или о чем мы говорим в танце?",
+                    "color": "",
+                    "description": "",
+                    "place": "Расширитель второго этажа Звездные врата",
+                    "author": {
+                        "name": "Белка",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TFBTTS",
+                    "start": "2017-03-25 14:00",
+                    "duration": 90,
+                    "title": "Tribal fusion: базовые техники и традиции стиля.",
+                    "color": "",
+                    "description": "",
+                    "place": "Расширитель второго этажа Звездные врата",
+                    "author": {
+                        "name": "Валерия Кохан",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PVT",
+                    "start": "2017-03-25 16:00",
+                    "duration": 120,
+                    "title": "Поддержки в танце.",
+                    "color": "",
+                    "description": "",
+                    "place": "Расширитель второго этажа Звездные врата",
+                    "author": {
+                        "name": "Белка",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "SIK",
+                    "start": "2017-03-25 18:00",
+                    "duration": 60,
+                    "title": "Шотландские и ирландские кейли",
+                    "color": "",
+                    "description": "",
+                    "place": "Расширитель второго этажа Звездные врата",
+                    "author": {
+                        "name": "Дарья Бобрицкая",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Перекресток миров",
+            "place": "Перекресток миров",
+            "color": "1155cc",
+            "speeches": [
+                {
+                    "id": "ST",
+                    "start": "2017-03-24 22:00",
+                    "duration": 150,
+                    "title": "Свободный танцпол",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "RST",
+                    "start": "2017-03-25 10:00",
+                    "duration": 60,
+                    "title": "Регистрация на шпажный турнир",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "ST",
+                    "start": "2017-03-25 11:00",
+                    "duration": 120,
+                    "title": "Шпажный турнир",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "RNT",
+                    "start": "2017-03-25 14:00",
+                    "duration": 60,
+                    "title": "Регистрация на ножевой турнир",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "NT",
+                    "start": "2017-03-25 15:00",
+                    "duration": 150,
+                    "title": "Ножевой турнир",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "MKKD",
+                    "start": "2017-03-25 18:00",
+                    "duration": 60,
+                    "title": "МК по кабацкой драке",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "Хвост",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "BPV",
+                    "start": "2017-03-25 22:00",
+                    "duration": 150,
+                    "title": "Бал «Перекресток времен»",
+                    "color": "",
+                    "description": "",
+                    "place": "Перекресток миров",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "ЧГК",
+            "place": "ЧГК",
+            "color": "674ea7",
+            "speeches": [
+                {
+                    "id": "FOOD11",
+                    "start": "2017-03-25 09:00",
+                    "duration": 60,
+                    "title": "Завтрак",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD12",
+                    "start": "2017-03-25 13:00",
+                    "duration": 60,
+                    "title": "Обед",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "WWW",
+                    "start": "2017-03-25 16:00",
+                    "duration": 120,
+                    "title": "ЧГК",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FOOD13",
+                    "start": "2017-03-25 19:00",
+                    "duration": 60,
+                    "title": "Ужин",
+                    "color": "FFFFFF",
+                    "description": "",
+                    "place": "Столовая",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
