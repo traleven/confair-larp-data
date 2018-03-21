@@ -2913,30 +2913,6 @@
             }
         },
         {
-            "id": "BL1018",
-            "url": "",
-            "status": "Анонс",
-            "category": "Бал",
-            "title": "Бал в стилистике 1910х годов",
-            "organizer": {
-                "name": "Организаторы: Фьялар, Тари, Кьяра"
-            },
-            "date": "2018-03-31",
-            "duration": 1,
-            "date_string": "март 2018",
-            "place": "Киев",
-            "place_short": "Киев",
-            "logo": "",
-            "placeUrl": "",
-            "sourceUrl": "",
-            "description": "",
-            "social": {
-                "text": "",
-                "tags": "",
-                "url": ""
-            }
-        },
-        {
             "id": "FORT18",
             "url": "",
             "status": "Анонс",
@@ -3141,6 +3117,30 @@
                 "text": "",
                 "tags": "",
                 "url": "https://www.facebook.com/groups/1891037141145811/"
+            }
+        },
+        {
+            "id": "BL1018",
+            "url": "",
+            "status": "Анонс",
+            "category": "Бал",
+            "title": "Бал в стилистике 1910х годов",
+            "organizer": {
+                "name": "Организаторы: Фьялар, Тари, Кьяра"
+            },
+            "date": "2018-05-31",
+            "duration": 1,
+            "date_string": "май-июнь 2018",
+            "place": "Киев",
+            "place_short": "Киев",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "",
+            "description": "",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": ""
             }
         },
         {
