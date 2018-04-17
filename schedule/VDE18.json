@@ -1,0 +1,1086 @@
+{
+    "threads": [
+        {
+            "title": "Practice Room 1 (Red)",
+            "place": "Practice Room 1 (Red)",
+            "color": "ff0000",
+            "speeches": [
+                {
+                    "id": "WUCL1",
+                    "start": "2018-04-19 09:30",
+                    "duration": 60,
+                    "title": "WARM-UP CLASS",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "NFFTE",
+                    "start": "2018-04-19 10:30",
+                    "duration": 60,
+                    "title": "New Figures for the Écossaise",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Sergiy Rekrotchuk, Regency Club Pemberley (Kharkiv)",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "WLWP1",
+                    "start": "2018-04-19 11:30",
+                    "duration": 60,
+                    "title": "Wilson's Lego part I — Waltzes",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Sergiy Rekrotchuk, Regency Club Pemberley (Kharkiv)",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "ELXIXCFD",
+                    "start": "2018-04-19 14:00",
+                    "duration": 60,
+                    "title": "Easy Late XIX Century French Dances",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "POLKA40",
+                    "start": "2018-04-19 15:00",
+                    "duration": 60,
+                    "title": "1840s early polka variations",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TROIDR20",
+                    "start": "2018-04-19 16:00",
+                    "duration": 60,
+                    "title": "1820s Troidrilles",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "WUCL2",
+                    "start": "2018-04-20 09:30",
+                    "duration": 60,
+                    "title": "WARM-UP CLASS",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "MRR",
+                    "start": "2018-04-20 10:30",
+                    "duration": 60,
+                    "title": "Morgan Rattler (revisited)",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Sergiy Rekrotchuk, Regency Club Pemberley (Kharkiv)",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "WLPJR",
+                    "start": "2018-04-20 11:30",
+                    "duration": 60,
+                    "title": "Wilson's Lego part II — Jigs and Reels ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Sergiy Rekrotchuk, Regency Club Pemberley (Kharkiv)",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "BBWQ1090",
+                    "start": "2018-04-20 14:00",
+                    "duration": 60,
+                    "title": "1810s-1890s Beautiful Beginnings for waltz & quadrilles",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "GALOP",
+                    "start": "2018-04-20 15:00",
+                    "duration": 60,
+                    "title": "1830s galopades",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "BMUEFD",
+                    "start": "2018-04-22 09:30",
+                    "duration": 60,
+                    "title": "Body Movement — useful exercises for all dancers",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Nastya Gorban', KSDC, Kyiv",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PURBSS",
+                    "start": "2018-04-22 10:30",
+                    "duration": 60,
+                    "title": "Previously Unknown Regency Balancé Steps by Strathy",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Sergiy Rekrotchuk, Regency Club Pemberley (Kharkiv)",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "MOLDROM",
+                    "start": "2018-04-22 11:30",
+                    "duration": 60,
+                    "title": "Молдавские, Румынские народные танцы",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Влада Самойлова, «Джойссанс», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "AMV10",
+                    "start": "2018-04-22 14:00",
+                    "duration": 60,
+                    "title": "1910s American maxixe variations",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PEABODY",
+                    "start": "2018-04-22 15:00",
+                    "duration": 60,
+                    "title": "Пибоди",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Кривенко Алексей, Светлана Евсюкова ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "AFD3040",
+                    "start": "2018-04-22 16:00",
+                    "duration": 60,
+                    "title": "American Folk Dances from the 1930s-1940s",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Practice Room 2 (Yellow)",
+            "place": "Practice Room 2 (Yellow)",
+            "color": "ffff00",
+            "speeches": [
+                {
+                    "id": "VDE18YEL1",
+                    "start": "2018-04-19 10:30",
+                    "duration": 60,
+                    "title": "Bassa Toscana",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Влада Самойлова, «Джойссанс», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL2",
+                    "start": "2018-04-19 11:30",
+                    "duration": 60,
+                    "title": "Бургундские бассдансы ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Ирина Никитина, «Джойссанс», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL3",
+                    "start": "2018-04-19 14:00",
+                    "duration": 60,
+                    "title": "Жава",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Антон Воронько, клуб «Авангард», Днепр",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL4",
+                    "start": "2018-04-19 15:00",
+                    "duration": 60,
+                    "title": "Пасодобль",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Антон Воронько, клуб «Авангард», Днепр",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL5",
+                    "start": "2018-04-19 16:00",
+                    "duration": 60,
+                    "title": "Два Леончелло ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Ирина Никитина, «Джойссанс», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "BELGIO",
+                    "start": "2018-04-20 10:30",
+                    "duration": 120,
+                    "title": "Bella Gioiosa ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Влада Самойлова, «Джойссанс», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "CHARLS",
+                    "start": "2018-04-20 14:00",
+                    "duration": 60,
+                    "title": "Charleston - Solo",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Taras Melnyk + Vitalia Brukhanska, KSDC, Kyiv",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "CHARLC",
+                    "start": "2018-04-20 15:00",
+                    "duration": 60,
+                    "title": "Charleston - Couple",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Taras Melnyk + Vitalia Brukhanska, KSDC, Kyiv",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "YABL20",
+                    "start": "2018-04-22 10:30",
+                    "duration": 60,
+                    "title": "1920s Yale Blues",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL56",
+                    "start": "2018-04-22 11:30",
+                    "duration": 60,
+                    "title": "Малые сиквенсы модерна, часть 2 — ХХ век",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Марина Первая, КІТ \"Відлуння\", Днепр",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL57",
+                    "start": "2018-04-22 14:00",
+                    "duration": 60,
+                    "title": "The Grossvater Tanz",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Юлия Корженевская, ССТ La Rêverie",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL58",
+                    "start": "2018-04-22 15:00",
+                    "duration": 60,
+                    "title": "Бретонский гавот для выступления",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Влада Самойлова, «Джойссанс», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18YEL59",
+                    "start": "2018-04-22 16:00",
+                    "duration": 60,
+                    "title": "Ньюпорт",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Кривенко Алексей, Светлана Евсюкова",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Practice Room 3 (Grey)",
+            "place": "Practice Room 3 (Grey)",
+            "color": "cccccc",
+            "speeches": [
+                {
+                    "id": "VDE18GR1",
+                    "start": "2018-04-19 10:30",
+                    "duration": 60,
+                    "title": "Barn Dances of the American Frontier ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Алена Рябцева, «Альбион», Харьков",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR2",
+                    "start": "2018-04-19 11:30",
+                    "duration": 60,
+                    "title": "Старый вальс в три па для начинающих ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Наталья Рябчун, «Альбион», Харьков",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR3",
+                    "start": "2018-04-19 14:00",
+                    "duration": 60,
+                    "title": "Па-де-бурре для новичков (+ Mr. Beveridge's Maggot) ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Павел Русских, «Междумирье в НАУКМА», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR4",
+                    "start": "2018-04-19 15:00",
+                    "duration": 60,
+                    "title": "Социальные танцы Средневековья ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Павел Русских, «Междумирье в НАУКМА», Киев",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR5",
+                    "start": "2018-04-19 16:00",
+                    "duration": 60,
+                    "title": "Традиционные беларусские танцы ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Марина Первая, КІТ \"Відлуння\", Днепр",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR6",
+                    "start": "2018-04-20 10:30",
+                    "duration": 60,
+                    "title": "Уанстеп для начинающих",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Кривенко Алексей, Светлана Евсюкова",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR7",
+                    "start": "2018-04-20 11:30",
+                    "duration": 60,
+                    "title": "Новый вальс в 3 па и вариации",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Кривенко Алексей, Светлана Евсюкова",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR8",
+                    "start": "2018-04-20 14:00",
+                    "duration": 60,
+                    "title": "Малые сиквенсы модерна, часть 1 — конец ХIХ века",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Марина Первая, КІТ \"Відлуння\", Днепр",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR9",
+                    "start": "2018-04-20 15:00",
+                    "duration": 60,
+                    "title": "Ирландские кейли для всех, часть 1 ",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Дмитрий Антипов, «Междумирье», Одесса",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR10",
+                    "start": "2018-04-22 10:30",
+                    "duration": 60,
+                    "title": "Ирландские кейли для всех, часть 2",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Дмитрий Антипов, «Междумирье», Одесса",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR11",
+                    "start": "2018-04-22 11:30",
+                    "duration": 60,
+                    "title": "1800s (Empire) Reconstruction - \"The Honey Moon\"",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Susan de Guardiola ",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR12",
+                    "start": "2018-04-22 14:00",
+                    "duration": 60,
+                    "title": "Бароко: Гавот",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Тетяна Турчина, ССТ La Rêverie",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR13",
+                    "start": "2018-04-22 15:00",
+                    "duration": 60,
+                    "title": "Philadelphia Schottische Quadrille",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Юлия Корженевская, ССТ La Rêverie",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "VDE18GR14",
+                    "start": "2018-04-22 16:00",
+                    "duration": 60,
+                    "title": "Бароко: Менует",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "Тетяна Турчина, ССТ La Rêverie",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Lecture room",
+            "place": "Lecture room",
+            "color": "674ea7",
+            "speeches": [
+                {
+                    "id": "LECT1",
+                    "start": "2018-04-19 14:00",
+                    "duration": 120,
+                    "title": "Женские причёски первой половины ХIХ века ",
+                    "color": "",
+                    "description": "Лекция и практический мастер-класс",
+                    "place": "",
+                    "author": {
+                        "name": "Оксана Солопова, Одесса",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LECT2",
+                    "start": "2018-04-19 16:00",
+                    "duration": 60,
+                    "title": "Мужские причёски ХIХ века",
+                    "color": "",
+                    "description": "Лекция и практический мастер-класс",
+                    "place": "",
+                    "author": {
+                        "name": "Оксана Солопова, Одесса",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LECT3",
+                    "start": "2018-04-20 14:00",
+                    "duration": 120,
+                    "title": "Женские причёски второй половины ХIХ века",
+                    "color": "",
+                    "description": "Лекция и практический мастер-класс",
+                    "place": "",
+                    "author": {
+                        "name": "Оксана Солопова, Одесса",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "General",
+            "place": "General",
+            "color": "6aa84f",
+            "speeches": [
+                {
+                    "id": "LNCHBR1",
+                    "start": "2018-04-19 12:30",
+                    "duration": 90,
+                    "title": "L U N C H B R E A K",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FRTM1",
+                    "start": "2018-04-19 17:00",
+                    "duration": 120,
+                    "title": "F R E E T I M E",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "OPDP",
+                    "start": "2018-04-19 19:00",
+                    "duration": 180,
+                    "title": "OPEN DANCEFLOOR PARTY",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LNCHBR2",
+                    "start": "2018-04-20 12:30",
+                    "duration": 90,
+                    "title": "L U N C H B R E A K",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FRTM2",
+                    "start": "2018-04-20 16:00",
+                    "duration": 60,
+                    "title": "F R E E T I M E",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LXIXCB",
+                    "start": "2018-04-20 18:00",
+                    "duration": 240,
+                    "title": "LATE XIX CENTURY BALL",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LNCHBR3",
+                    "start": "2018-04-22 12:30",
+                    "duration": 90,
+                    "title": "L U N C H B R E A K",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FRTM3",
+                    "start": "2018-04-22 17:00",
+                    "duration": 120,
+                    "title": "F R E E T I M E",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "AFTRP",
+                    "start": "2018-04-22 19:00",
+                    "duration": 240,
+                    "title": "AFTERPARTY",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Grand Ball at Kachanivka",
+            "place": "Grand Ball at Kachanivka",
+            "color": "4a86e8",
+            "speeches": [
+                {
+                    "id": "GATBSP",
+                    "start": "2018-04-21 08:00",
+                    "duration": 60,
+                    "title": "GATHERING AT THE BUS STARTING POINT",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TRKCHN",
+                    "start": "2018-04-21 09:00",
+                    "duration": 180,
+                    "title": "TRAVEL TO KACHANIVKA\t",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "PFTBL",
+                    "start": "2018-04-21 12:00",
+                    "duration": 90,
+                    "title": "PREPARATIONS FOR THE BALL\t",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "GRND1",
+                    "start": "2018-04-21 13:30",
+                    "duration": 90,
+                    "title": "GRAND BALL, 1-st CHAPTER",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "LNCHBRK",
+                    "start": "2018-04-21 15:00",
+                    "duration": 60,
+                    "title": "LUNCH BREAK",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FRTMK",
+                    "start": "2018-04-21 16:00",
+                    "duration": 60,
+                    "title": "FREE TIME",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "GRND2",
+                    "start": "2018-04-21 17:00",
+                    "duration": 120,
+                    "title": "GRAND BALL, 2-nd CHAPTER",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "FRTP",
+                    "start": "2018-04-21 19:00",
+                    "duration": 60,
+                    "title": "FREE TIME, Packing",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                },
+                {
+                    "id": "TRBCK",
+                    "start": "2018-04-21 20:00",
+                    "duration": 180,
+                    "title": "TRAVEL BACK TO KYIV",
+                    "color": "",
+                    "description": "",
+                    "place": "",
+                    "author": {
+                        "name": "",
+                        "avatar": "",
+                        "position": "",
+                        "company": "",
+                        "url": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
