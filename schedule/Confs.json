@@ -2935,7 +2935,7 @@
         {
             "id": "FORT18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "КРИ",
             "title": "Фортуна-3",
             "organizer": {
@@ -2958,7 +2958,7 @@
         {
             "id": "LKLR18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "КРИ",
             "title": "Lakelure ",
             "organizer": {
@@ -3026,7 +3026,7 @@
         },
         {
             "id": "VDE18",
-            "url": "",
+            "url": "http://appturn.com/confair/larp/schedule/VDE18.json",
             "status": "Анонс",
             "category": "Бал",
             "title": "Vintage Dance Exchange-2018",
