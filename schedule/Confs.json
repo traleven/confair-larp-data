@@ -3904,6 +3904,29 @@
             }
         },
         {
+            "id": "DREAM19",
+            "url": "",
+            "status": "Анонс",
+            "category": "БРИ",
+            "title": "Dream.Inc",
+            "organizer": {
+                "name": "МГ: Иль, Инга, Кенгулара, Т9"
+            },
+            "date": "2019-06-07",
+            "duration": 3,
+            "place": "Львовская область",
+            "place_short": "Львов",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "https://t.me/dream_inc",
+            "description": " РИ по мотивам сеттинга Changeling: The Dreaming",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": "https://t.me/dream_inc"
+            }
+        },
+        {
             "id": "KSZY18",
             "url": "",
             "status": "Перенос",
