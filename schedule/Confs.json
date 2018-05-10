@@ -3160,6 +3160,26 @@
             }
         },
         {
+            "id": "PORB18",
+            "url": "",
+            "status": "Анонс",
+            "category": "Турнир",
+            "title": "Пороховая Башня",
+            "date": "2018-05-18",
+            "duration": 3,
+            "place": "Одесса",
+            "place_short": "Одесса",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "http://pb.hor.net.ua",
+            "description": "Одесский фестиваль средневековой культуры",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": "http://pb.hor.net.ua"
+            }
+        },
+        {
             "id": "TO1518",
             "url": "",
             "status": "Анонс",
@@ -3273,26 +3293,6 @@
                 "text": "",
                 "tags": "",
                 "url": ""
-            }
-        },
-        {
-            "id": "PORB18",
-            "url": "",
-            "status": "Анонс",
-            "category": "Турнир",
-            "title": "Пороховая Башня",
-            "date": "2018-0518",
-            "duration": 3,
-            "place": "Одесса",
-            "place_short": "Одесса",
-            "logo": "",
-            "placeUrl": "",
-            "sourceUrl": "http://pb.hor.net.ua",
-            "description": "Одесский фестиваль средневековой культуры",
-            "social": {
-                "text": "",
-                "tags": "",
-                "url": "http://pb.hor.net.ua"
             }
         },
         {
