@@ -1,6 +1,26 @@
 {
     "conferences": [
         {
+            "id": "PKM17",
+            "url": "",
+            "status": "Отмена",
+            "category": "ПРИ",
+            "title": "[Cancel]",
+            "date": "",
+            "duration": "",
+            "place": "",
+            "place_short": "",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "",
+            "description": "",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": ""
+            }
+        },
+        {
             "id": "ALTL17",
             "url": "",
             "status": "Отмена",
@@ -3968,7 +3988,7 @@
             "organizer": {
                 "name": "Организаторы: Ата"
             },
-            "date": "2018-11-02",
+            "date": "2018-10-29",
             "duration": 3,
             "place": "Днепропетровская область",
             "place_short": "Днепр",
@@ -4027,30 +4047,6 @@
                 "text": "",
                 "tags": "",
                 "url": "https://t.me/xxii_ct"
-            }
-        },
-        {
-            "id": "PKM17",
-            "url": "",
-            "status": "Перенос",
-            "category": "ПРИ",
-            "title": "Пираты карибского моря",
-            "organizer": {
-                "name": "МГ \"Драконий камень\""
-            },
-            "date": "2018-12-21",
-            "duration": 3,
-            "date_string": 2018,
-            "place": "Киевская область",
-            "place_short": "Киев",
-            "logo": "",
-            "placeUrl": "",
-            "sourceUrl": "https://vk.com/club132692005",
-            "description": "Несколько дней из жизни \"джентельменов удачи\" и окружающего их мира.",
-            "social": {
-                "text": "",
-                "tags": "",
-                "url": "https://vk.com/club132692005"
             }
         },
         {
