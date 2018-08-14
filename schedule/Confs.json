@@ -3001,7 +3001,7 @@
         {
             "id": "TZML18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "БРИ",
             "title": "Темные Земли (часть 3)",
             "organizer": {
@@ -3024,7 +3024,7 @@
         {
             "id": "NKR18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "НеКрещение Руси",
             "organizer": {
@@ -3116,7 +3116,7 @@
         {
             "id": "LBRNT18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Лабиринт",
             "organizer": {
@@ -3139,7 +3139,7 @@
         {
             "id": "TO1418",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "КРИ",
             "title": "Точка отсчёта",
             "organizer": {
@@ -3162,7 +3162,7 @@
         {
             "id": "PORB18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "Турнир",
             "title": "Пороховая Башня",
             "date": "2018-05-18",
@@ -3182,7 +3182,7 @@
         {
             "id": "TO1518",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "КРИ",
             "title": "Точка отсчёта",
             "organizer": {
@@ -3205,7 +3205,7 @@
         {
             "id": "TO1618",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "КРИ",
             "title": "Точка отсчёта",
             "organizer": {
@@ -3228,7 +3228,7 @@
         {
             "id": "HOG18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "БРИ",
             "title": "Хогвартс. Наследие. 1975",
             "organizer": {
@@ -3251,7 +3251,7 @@
         {
             "id": "WRCR18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "WarCraft. Эпоха героев 2",
             "organizer": {
@@ -3298,7 +3298,7 @@
         {
             "id": "DIK18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "БРИ",
             "title": "Диковатый Запад",
             "organizer": {
@@ -3321,7 +3321,7 @@
         {
             "id": "JERUS18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "БРИ",
             "title": "Иерусалим 32 AD",
             "organizer": {
@@ -3344,7 +3344,7 @@
         {
             "id": "HLWD18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Hellwood",
             "organizer": {
@@ -3367,7 +3367,7 @@
         {
             "id": "453M18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "153 года после падения Мордхейма",
             "organizer": {
@@ -3390,7 +3390,7 @@
         {
             "id": "NARN17",
             "url": "",
-            "status": "Перенос",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Хроники Нарнии: После Королей",
             "organizer": {
@@ -3413,7 +3413,7 @@
         {
             "id": "EPA18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Еда и Патроны. Арсенал",
             "organizer": {
@@ -3459,7 +3459,7 @@
         {
             "id": "METRO18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Метро 2033 \"Жажда мести\"",
             "organizer": {
@@ -3482,7 +3482,7 @@
         {
             "id": "MGS18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Мозаика \"Город Сильных\"",
             "organizer": {
@@ -3505,7 +3505,7 @@
         {
             "id": "ONS18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "БРИ",
             "title": "Не опуская взгляд",
             "organizer": {
@@ -3528,7 +3528,7 @@
         {
             "id": "KRNL18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "Турнир",
             "title": "Київська Русь: Народження Лева",
             "organizer": {
@@ -3574,7 +3574,7 @@
         {
             "id": "ALMK18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Мистерия королей",
             "organizer": {
@@ -3597,7 +3597,7 @@
         {
             "id": "TKZPZ18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Темный Континент. Зеленое Пламя Запада",
             "organizer": {
@@ -3620,7 +3620,7 @@
         {
             "id": "MOTG18",
             "url": "",
-            "status": "Анонс",
+            "status": "Прошла",
             "category": "ПРИ",
             "title": "Master of the Guilds",
             "organizer": {
@@ -3638,6 +3638,29 @@
                 "text": "",
                 "tags": "",
                 "url": "https://www.facebook.com/groups/VTR.MOTG/"
+            }
+        },
+        {
+            "id": "WHF18",
+            "url": "",
+            "status": "Прошла",
+            "category": "ПРИ",
+            "title": "Warhammer Fantasy: Посол Империи",
+            "organizer": {
+                "name": "ГМ Деймос"
+            },
+            "date": "2018-08-11",
+            "duration": 2,
+            "place": "Днепропетровская область",
+            "place_short": "Днепр",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "https://www.facebook.com/groups/168922183819188/",
+            "description": "Империя вновь готовится дать отпор ордам Хаоса, и на этот раз война обещает быть жесточайшей. Молодой посол Каспар фон Велтен направлен императором в Кислев, где располагается гарнизон Империи. Именно Каспар должен навести порядок на местах: разогнать проворовавшихся бюрократов, подготовить запасы продовольствия, повысить боевой дух армии. Он еще не знает, какие изощренные ловушки готовят ему демоны, как сложно отличить своих от чужих и какую цену придется заплатить за победу над Хаосом.\n...Так ли все будет в Нашей истории, покажет время.   ",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": "https://www.facebook.com/groups/168922183819188/"
             }
         },
         {
@@ -4132,11 +4155,10 @@
             "organizer": {
                 "name": " МГ \"Walrus\""
             },
-            "date": "2019-06-28",
-            "duration": 4,
-            "date_string": "лето 2019",
-            "place": "База под Киевом",
-            "place_short": "Киев",
+            "date": "2019-06-26",
+            "duration": 5,
+            "place": "Львовская область",
+            "place_short": "Львов",
             "logo": "",
             "placeUrl": "",
             "sourceUrl": "https://t.me/eldorado_university",
