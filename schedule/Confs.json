@@ -1,26 +1,6 @@
 {
     "conferences": [
         {
-            "id": "PKM17",
-            "url": "",
-            "status": "Отмена",
-            "category": "ПРИ",
-            "title": "[Cancel]",
-            "date": "",
-            "duration": "",
-            "place": "",
-            "place_short": "",
-            "logo": "",
-            "placeUrl": "",
-            "sourceUrl": "",
-            "description": "",
-            "social": {
-                "text": "",
-                "tags": "",
-                "url": ""
-            }
-        },
-        {
             "id": "ALTL17",
             "url": "",
             "status": "Отмена",
@@ -45,6 +25,26 @@
             "url": "",
             "status": "Отмена",
             "category": "КРИ",
+            "title": "[Cancel]",
+            "date": "2001-01-01",
+            "duration": "",
+            "place": "",
+            "place_short": "",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "",
+            "description": "",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": ""
+            }
+        },
+        {
+            "id": "PKM17",
+            "url": "",
+            "status": "Отмена",
+            "category": "ПРИ",
             "title": "[Cancel]",
             "date": "2001-01-01",
             "duration": "",
