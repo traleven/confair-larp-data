@@ -21,6 +21,26 @@
             }
         },
         {
+            "id": "LEL18",
+            "url": "",
+            "status": "Отмена",
+            "category": "ПРИ",
+            "title": "[Cancel]",
+            "date": "2001-01-01",
+            "duration": "",
+            "place": "",
+            "place_short": "",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "",
+            "description": "",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": ""
+            }
+        },
+        {
             "id": "NVK18",
             "url": "",
             "status": "Отмена",
@@ -3839,29 +3859,6 @@
                 "text": "",
                 "tags": "",
                 "url": "https://www.facebook.com/groups/174276443392125/"
-            }
-        },
-        {
-            "id": "LEL18",
-            "url": "",
-            "status": "Анонс",
-            "category": "ПРИ",
-            "title": "Лэ о Лэйтиан 2018",
-            "organizer": {
-                "name": "Главмастер: Эктелион Эктелендил (Томас Шереметьев)"
-            },
-            "date": "2018-09-21",
-            "duration": 3,
-            "place": "Ясные Поляны, Полтавская область",
-            "place_short": "Полтава",
-            "logo": "",
-            "placeUrl": "",
-            "sourceUrl": "https://www.facebook.com/groups/174605919773396/?fref=mentions&pnref=story",
-            "description": "Полигонная ролевая игра по мотивам самому романтичному сочинению Профессора — саге о Берене и Лютиэнь. Ожидаемое количество участников до 100 душ. Формат — погружение в атмосферу с боевыми эпизодами. Предположительное место проведение полигон Ясные Поляны (г. Полтава). ",
-            "social": {
-                "text": "",
-                "tags": "",
-                "url": "https://www.facebook.com/groups/174605919773396/?fref=mentions&pnref=story"
             }
         },
         {
