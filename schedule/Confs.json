@@ -5234,6 +5234,29 @@
             }
         },
         {
+            "id": "DK21",
+            "url": "http://appturn.com/confair/larp/schedule/DK21.json",
+            "status": "Анонс",
+            "category": "Турнир",
+            "title": "Днепровский Клич",
+            "organizer": {
+                "name": "Дмитрий Боярский"
+            },
+            "date": "2021-07-16",
+            "duration": "",
+            "place": "",
+            "place_short": "Днепр",
+            "logo": "",
+            "placeUrl": "",
+            "sourceUrl": "http://project3919186.tilda.ws/page18573830.html",
+            "description": "Первый большой пилотный проект от лучного клуба \"Skolot\"\n\nЭто - маштабные ролевые сборы, в рамках которых пройдут Военные Манёвры по средневиковью.\n\nА в последний день Вас ожидает - Лучный и Фехтовальные турниры.",
+            "social": {
+                "text": "",
+                "tags": "",
+                "url": ""
+            }
+        },
+        {
             "id": "CTHR21",
             "url": "http://appturn.com/confair/larp/schedule/CTHR21.json",
             "status": "Анонс",
